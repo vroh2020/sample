@@ -1,7 +1,7 @@
 version: "3.8"
 services:
   sampletest:
-    image: vroh2020/sample:v1
+    image: vroh2020/sample:stackfile
     deploy:
       replicas: 2
 
